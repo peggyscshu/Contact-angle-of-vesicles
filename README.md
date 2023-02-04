@@ -4,6 +4,6 @@
 ## Demo image
 ![Fig1](https://user-images.githubusercontent.com/67047201/216746647-46ae1d5e-c15b-4218-b24e-550b80e34cfa.png)
 ## Workflow
-
+![F2](https://user-images.githubusercontent.com/67047201/216746694-2a820436-4ff5-496b-9e44-8f8cb66c4a1f.png)
 ## Reference
 1. Arganda-Carreras, I., Fernández-González, R., Muñoz-Barrutia, A., & Ortiz-De-Solorzano, C. (2010). 3D reconstruction of histological sections: Application to mammary gland tissue. Microscopy Research and Technique, 73(11), 1019–1029. doi:10.1002/jemt.20829
